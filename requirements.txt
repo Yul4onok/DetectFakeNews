@@ -15,7 +15,7 @@ MarkupSafe==2.1.5
 matplotlib==3.7.5
 nltk==3.9.1
 packaging==24.0
-pandas==2.2.2
+pandas==2.0.3
 pefile==2023.2.7
 pillow==10.3.0
 pyinstaller==6.11.0
